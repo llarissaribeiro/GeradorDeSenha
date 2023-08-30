@@ -2,7 +2,7 @@
 
 <p align="center">Projeto para gerar senhar automáticas de forma aleatória</p>
 
-![Captura de tela 2023-08-30 170230](https://github.com/llarissaribeiro/GeradorDeSenha/assets/118293780/3270f15f-67f6-4119-945f-33145acbdfd3)
+[Captura de tela 2023-08-30 170230](https://github.com/llarissaribeiro/GeradorDeSenha/assets/118293780/3270f15f-67f6-4119-945f-33145acbdfd3)
 
 <h1>🧮 Funcionalidades</h1>
 <br> - Gerar senha aleatória.
